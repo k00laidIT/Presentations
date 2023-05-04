@@ -9,7 +9,10 @@
 
 
 ### Falko Banaszak, Solution Architect & Consultant @ [SVA System Vertrieb Alexander GmbH](https://www.sva.de)
-- Fill in here Falko
+- [Blog](https://www.virtualhome.blog)
+- [LinkedIn](https://www.linkedin.com/in/falko-banaszak-38442463/)
+- [Twitter](https://twitter.com/Falko_Banaszak)
+- [Mastodon](https://mastodon.social/@Falko_Banaszak)
 
 ### Presentation
 Insert Slideshare link
