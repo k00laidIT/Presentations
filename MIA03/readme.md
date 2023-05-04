@@ -8,7 +8,7 @@
 - [Twitter](https://twitter.com/k00laidIT/)
 
 
-### Falko Banaszak, Solution Architect & Consultant @ [SVA System Vertrieb Alexander GmbH](https://www.sva.de)
+### Falko Banaszak, Solution Architect & Consultant for Data Protection @ [SVA System Vertrieb Alexander GmbH](https://www.sva.de)
 - [Blog](https://www.virtualhome.blog)
 - [LinkedIn](https://www.linkedin.com/in/falko-banaszak-38442463/)
 - [Twitter](https://twitter.com/Falko_Banaszak)
