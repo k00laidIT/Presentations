@@ -8,7 +8,7 @@
 - [Twitter](https://twitter.com/k00laidIT/)
 
 
-### Falko Banaszak
+### Falko Banaszak, Solution Architect & Consultant @ [SVA System Vertrieb Alexander GmbH](https://www.sva.de)
 - Fill in here Falko
 
 ### Presentation
