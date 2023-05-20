@@ -15,7 +15,7 @@
 - [Mastodon](https://mastodon.social/@Falko_Banaszak)
 
 ### Presentation
-Insert Slideshare link
+[Presentation Slideshare](https://www.slideshare.net/JimJones147/veeamon-2023-architecting-veeam-backup-for-microsoft-365-at-scale)
 
 ### All the links
 - [Veeam Best Practices Guide for VB365](https://bp.veeam.com/vb365)
