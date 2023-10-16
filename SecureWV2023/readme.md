@@ -19,6 +19,7 @@ But where do you start? During this session we’ll discuss:
 Insert Slideshare link
 
 ### All the links
+- [Veeam 2023 Ransomware Trends Report](https://github.com/k00laidIT/Presentations/blob/main/SecureWV2023/trends-report-ransomware.pdf)
 - [Conti Ransomware Expands Ability to Blow Up Backups | Threatpost](https://threatpost.com/conti-ransomware-backups/175114/)
 - [Understanding Ransomware Threat Actors: LockBit | CISA]https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-165a)
 - [Breaking Down the BlackCat Ransomware Operation](https://www.cisecurity.org/insights/blog/breaking-down-the-blackcat-ransomware-operation)
