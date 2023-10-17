@@ -1,5 +1,6 @@
 # Content for Secure WV 2023 - Yes, Backups Do Matter: Designing Disaster Recovery for a Ransomware World
 
+## Presenters
 ### Jim Jones, Sr. Product Infrastructure Architect @ [11:11 Systems](https://www.1111systems.com)
 - [Blog](https://koolaid.info)
 - [Linkedin](https://www.linkedin.com/in/k00laidit/)
