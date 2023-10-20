@@ -16,7 +16,7 @@ But where do you start? During this session we’ll discuss:
 - Why a robust security and data protection plan that includes disaster recovery is essential
 
 ## Presentation
-Insert Slideshare link
+[Presentation PDF](https://github.com/k00laidIT/Presentations/blob/main/SecureWV2023/SecureWV-2023-BackupsMatter.pdf)
 
 ## All the links
 - [Veeam 2023 Ransomware Trends Report](https://github.com/k00laidIT/Presentations/blob/main/SecureWV2023/trends-report-ransomware.pdf)
