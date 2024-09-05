@@ -1,5 +1,4 @@
-# Content for VeeamON 2023 MIA03 - Architecting VB365 at Scale
-
+# Content for DRJ Fall 2025 - Practical Object Storage for DR
 ## Presenter Socials
 ### Jim Jones, Sr. Product Infrastructure Architect @ [11:11 Systems](https://www.1111systems.com)
 - [Blog](https://koolaid.info)
