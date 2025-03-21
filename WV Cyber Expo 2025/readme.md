@@ -13,4 +13,7 @@ When we hear Cybersecurity we often think about preventing attacks against our p
 ## Presentation
 [Presentation PDF](https://github.com/k00laidIT/Presentations/blob/main/WV%20Cyber%20Expo%202025/WV%20Cyber%20Expo%20Spring%202025-%20Backup%20Is%20Security.pdf)
 
+## Links
+[ransomware.live](https://ransomware.live)
+[Veeam 4/20/2025 CVE Disclosure](https://www.veeam.com/kb4724)
 
