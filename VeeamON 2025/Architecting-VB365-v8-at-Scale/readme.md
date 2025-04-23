@@ -20,7 +20,8 @@ Topics will include:
 - and finally monitoring and troubleshooting gotchas
 
 ## Presentation
-[Presentation PDF](https://github.com/k00laidIT/Presentations/blob/main/WV%20Cyber%20Expo%202025/WV%20Cyber%20Expo%20Spring%202025-%20Backup%20Is%20Security.pdf)
+[Presentation PDF](https://github.com/k00laidIT/Presentations/blob/main/VeeamON%202025/Architecting-VB365-v8-at-Scale/VeeamON%202025-Jones_Smith-Architectingv8atScale.pdf)
+[Veeam 100 Underground Version](https://github.com/k00laidIT/Presentations/blob/main/VeeamON%202025/Architecting-VB365-v8-at-Scale/VeeamON-V100Underground-JJONES-Architectingv8.pdf)
 
 ## Links
 - [Veeam v8 VB365 Best Practices Guide – still v7]( https://bp.veeam.com/vb365)
