@@ -13,7 +13,7 @@
 ---
 ### Presentation
 
-[Presentation Slideshare](https://github.com/k00laidIT/Presentations/blob/main/ElevateIT/AI-Data-Recovery-Readiness.pdf)
+[Presentation Slides](https://github.com/k00laidIT/Presentations/blob/main/ElevateIT/AI-Data-Recovery-Readiness.pdf)
 
 ### All the Links
 - https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
