@@ -1,4 +1,4 @@
-# Content for DRJ Fall 2025 - Practical Object Storage for DR
+# Content for ElevateIT - As AI Comes For Your Data Is Your Recovery Ready
 
 ---
 ## Presenter Socials
