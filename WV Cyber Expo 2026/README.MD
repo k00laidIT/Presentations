@@ -14,7 +14,7 @@
 
 ---
 ### Presentation
-[Presentation Slides]()
+[Presentation Slides](https://github.com/k00laidIT/Presentations/blob/main/WV%20Cyber%20Expo%202026/career-in-the-age-of-ai.pdf)
 
 ### All the Links
 - [Intro to Prompt Engineering (YouTube)](https://www.youtube.com/watch?v=2BpCk4d2Cc0)
