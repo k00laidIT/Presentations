@@ -14,4 +14,4 @@
 ---
 ### Presentation
 
-[Presentation Slides]([https://github.com/k00laidIT/Presentations/blob/main/ChicagoCybersecuritySummit/LayeredDataProtection.pdf)
+[Presentation Slides](https://github.com/k00laidIT/Presentations/blob/main/ChicagoCybersecuritySummit/LayeredDataProtection.pdf)
