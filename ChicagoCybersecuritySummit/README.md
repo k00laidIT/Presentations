@@ -1,7 +1,5 @@
 # Content for Cybersecurity Summit - Chicago - Things That Need Layers: Parfaits, Ogres and Data Protection
 
-
----
 ## Presenter Socials
 
 #### Jim Jones, Sr. Product Infrastructure Architect @ [11:11 Systems](https://www.1111systems.com)
