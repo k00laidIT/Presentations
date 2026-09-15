@@ -1,4 +1,4 @@
-# Content for Cybersecurity Summit - Chicago - Things That Need Layers: Parfaits, Ogres and Data Protection
+# Content for Cybersecurity Summit - Chicago - Things That Need Layers: Parfaits, Ogres and Data Protection
 
 
 ---
